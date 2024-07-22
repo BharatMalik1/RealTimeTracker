@@ -1,1 +1,4 @@
 # RealTimeTracker
+# Real-Time Location Tracker
+
+This web application is a real-time location tracker built using EJS, Socket.IO, and Express.js. It allows users to share and view location data in real-time, making it ideal for tracking moving objects or people. The app leverages the power of Socket.IO for instant, bidirectional communication between clients and the server, ensuring that location updates are transmitted and displayed without delay. Express.js provides a robust backend framework, while EJS templates enable dynamic rendering of the frontend. This project demonstrates the integration of modern web technologies to create a responsive and interactive location tracking solution. Whether for fleet management, friend locators, or logistics optimization, this application offers a solid foundation for real-time geographical data visualization and tracking.
